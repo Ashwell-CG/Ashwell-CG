@@ -2,15 +2,19 @@
 
 I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**. I enjoy building projects that combine programming, APIs, and practical applications.  
 
-[![GitHub followers](https://img.shields.io/github/followers/Ashwell-CG?label=Follow&style=social)](https://github.com/Ashwell-CG)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwell%20Cherian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwell-cherian-giji-413bb1312/)
 
 ---
 
-## 💻 Skills
-- **Languages:** Python, C, MySQL  
-- **Databases:** PostgreSQL, MySQL  
-- **Tools:** Git, Docker  
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -35,7 +39,3 @@ I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**.
 ---
 
 *"Learning by doing is my way to grow as a developer!"*
-
----
-
-![Ashwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwell-CG&show_icons=true&theme=radical)
