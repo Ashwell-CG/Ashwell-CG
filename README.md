@@ -2,7 +2,7 @@
 
 I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**. I enjoy building projects that combine programming, APIs, and practical applications.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwell%20Cherian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwell-cherian-giji-413bb1312/)  [![X](https://img.shields.io/badge/X-AshwellOfficial-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AshwellOfficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwell%20Cherian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwell-cherian-giji-413bb1312/) [![X](https://img.shields.io/badge/X-AshwellOfficial-14171A?style=flat&logo=twitter&logoColor=white)](https://x.com/AshwellOfficial)
 
 ---
 
