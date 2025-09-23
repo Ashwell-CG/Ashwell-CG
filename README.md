@@ -2,7 +2,8 @@
 
 I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**. I enjoy building projects that combine programming, APIs, and practical applications.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwell%20Cherian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwell-cherian-giji-413bb1312/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwell%20Cherian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwell-cherian-giji-413bb1312/)  
+[![X](https://img.shields.io/badge/X-AshwellOfficial-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AshwellOfficial)
 
 ---
 
@@ -10,6 +11,7 @@ I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -33,6 +35,7 @@ I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**.
 ## 📫 Contact Me
 - Email: [official.ashwellcg@gmail.com](mailto:official.ashwellcg@gmail.com)  
 - LinkedIn: [Ashwell Cherian Giji](https://www.linkedin.com/in/ashwell-cherian-giji-413bb1312/)  
+- X (Twitter): [@AshwellOfficial](https://x.com/AshwellOfficial)  
 - GitHub: [Ashwell-CG](https://github.com/Ashwell-CG)
 
 ---
