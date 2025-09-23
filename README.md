@@ -18,7 +18,7 @@ I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**.
 ---
 
 ## 🚀 Projects
-- **AI-integrated Web Apps:** Projects using Python, Flask, and APIs.  
+- **Weatherly – AI-integrated Weather App:** A web app using **Python, Flask, and APIs** to provide real-time weather information.    
 - **Flightly – API Integrated Flight Finder:** Find cheap flights using **Amadeus API**.  
 
 ---
