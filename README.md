@@ -33,7 +33,6 @@ I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**.
 - Email: [official.ashwellcg@gmail.com](mailto:official.ashwellcg@gmail.com)  
 - LinkedIn: [Ashwell Cherian Giji](https://www.linkedin.com/in/ashwell-cherian-giji-413bb1312/)  
 - X (Twitter): [@AshwellOfficial](https://x.com/AshwellOfficial)  
-- GitHub: [Ashwell-CG](https://github.com/Ashwell-CG)
 
 ---
 
