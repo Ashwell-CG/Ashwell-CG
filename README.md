@@ -17,8 +17,11 @@ I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**.
 ---
 
 ## 🚀 Projects
-- **[[Weatherly](https://github.com/Ashwell-CG/Weatherly)] – AI-integrated Weather App:** A web app using **Python, Flask, Gemini API, Openweather API** to provide real-time weather updates and natural language chatting.      
-- **[[Flightly](https://github.com/Ashwell-CG/Flightly)] – API Integrated Flight Finder:** Find cheap flights using **Amadeus API**.  
+- ### [🌦️ Weatherly](https://github.com/Ashwell-CG/Weatherly) – *AI-Powered Weather App*  
+A Flask-based web app that integrates **Gemini API** and **OpenWeather API** to deliver **real-time weather updates** and enable **natural language conversations** about the weather.  
+
+- ### [✈️ Flightly](https://github.com/Ashwell-CG/Flightly) – *Smart Flight Finder*  
+A flight search tool powered by the **Amadeus API** to help users discover **cheap flights** with ease.  
 
 ---
 
