@@ -14,16 +14,6 @@ I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🚀 Projects
-- #### [🌦️ Weatherly](https://github.com/Ashwell-CG/Weatherly) – *AI-Powered Weather App*  
-  A Flask-based web app that integrates **Gemini API** and **OpenWeather API** to deliver **real-time weather updates** and enable **natural language conversations** about the weather.  
-
-- #### [✈️ Flightly](https://github.com/Ashwell-CG/Flightly) – *Smart Flight Finder*  
-  A flight search tool powered by the **Amadeus API** to help users discover **cheap flights** with ease.  
-
----
 
 ## 🌱 Currently Learning
 - **C++** & **Data Structures & Algorithms (DSA)**  
