@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ashwell Cherian Giji
+# Hey there 👋, I'm Ashwell Cherian Giji
 
 I am a **B.Tech Computer Science & Engineering student** focused on **AI & ML**. I enjoy building projects that combine programming, APIs, and practical applications.  
 
