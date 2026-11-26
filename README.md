@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashwell Cherian Giji 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=440&amp;height=42&amp;lines=Build+reliable+APIs;Put+ML+models+to+work;Solve+real+user+problems" alt="Build reliable APIs, put ML models to work, and solve real user problems" width="440">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=440&amp;height=42&amp;lines=Backend+Engineer;AI+Engineering;FDE" alt="Backend Engineer, AI Engineering, and FDE" width="440">
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
