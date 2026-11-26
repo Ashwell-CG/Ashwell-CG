@@ -31,11 +31,7 @@
 
 <h4 align="center">AI &amp; Machine Learning</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-97511B?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/XGBoost-285882?style=for-the-badge" alt="XGBoost">
-  <img src="https://img.shields.io/badge/pandas-44276D?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/NumPy-285A86?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SHAP-285882?style=for-the-badge" alt="SHAP">
+  <img src="assets/machine-learning-tools.svg" width="244" height="44" alt="scikit-learn, XGBoost, pandas, NumPy, and SHAP">
 </p>
 
 <h4 align="center">Tooling &amp; Dev Environment</h4>
