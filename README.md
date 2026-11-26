@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashwell Cherian Giji 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=440&amp;height=42&amp;lines=Backend+Engineer;AI+Engineering;FDE" alt="Backend Engineer, AI Engineering, and FDE" width="440">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=450&amp;height=42&amp;lines=Aspiring+Backend+Engineer;Aspiring+AI+Engineer;Aspiring+Forward+Deployed+Engineer" alt="Aspiring Backend Engineer, Aspiring AI Engineer, and Aspiring Forward Deployed Engineer" width="450">
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
