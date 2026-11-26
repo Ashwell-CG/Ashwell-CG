@@ -16,21 +16,17 @@
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&amp;theme=dark" height="44" alt="Java, Python, C, C++, and JavaScript">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp&amp;theme=dark" height="44" alt="Java, Python, and C++">
 </p>
 
 <h4 align="center">Backend &amp; Deployment</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,docker,vercel&amp;theme=dark" height="44" alt="FastAPI, Flask, Node.js, Express, Docker, and Vercel">
-  <br>
-  <sub>REST APIs · Pydantic · Render</sub>
 </p>
 
 <h4 align="center">Databases &amp; Data Platforms</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&amp;theme=dark" height="44" alt="MongoDB, PostgreSQL, and MySQL">
-  <br>
-  <sub>Mongoose · SQL</sub>
 </p>
 
 <h4 align="center">AI &amp; Machine Learning</h4>
@@ -39,19 +35,13 @@
   <img src="https://img.shields.io/badge/XGBoost-285882?style=for-the-badge" alt="XGBoost">
   <img src="https://img.shields.io/badge/pandas-44276D?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/NumPy-285A86?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
-  <br>
-  <sub>xarray · SHAP</sub>
+  <img src="https://img.shields.io/badge/SHAP-285882?style=for-the-badge" alt="SHAP">
 </p>
 
 <h4 align="center">Tooling &amp; Dev Environment</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&amp;theme=dark" height="44" alt="Git, GitHub, VS Code, and Postman">
-  <br><br>
-  <img src="https://img.shields.io/badge/Claude%20Code-A94F34?style=for-the-badge&amp;logo=claude&amp;logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Antigravity-2955B8?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Antigravity">
-  <img src="https://img.shields.io/badge/Cursor-343943?style=for-the-badge&amp;logo=cursor&amp;logoColor=white" alt="Cursor">
-  <br>
-  <sub>pytest · Vitest</sub>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" height="44" alt="Git, GitHub, and VS Code">
+  <img src="assets/developer-tools.svg" width="144" height="44" alt="Claude Code, Antigravity, and Cursor">
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
