@@ -40,8 +40,7 @@
 
 <h4 align="center">Tooling &amp; Dev Environment</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" height="44" alt="Git, GitHub, and VS Code">
-  <img src="assets/jetbrains.svg" width="44" height="44" alt="JetBrains">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&amp;theme=dark" height="44" alt="Git, GitHub, VS Code, and IntelliJ IDEA">
   <img src="assets/developer-tools.svg" width="144" height="44" alt="Claude Code, Antigravity, and Cursor">
 </p>
 
