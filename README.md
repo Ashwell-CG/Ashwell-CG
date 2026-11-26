@@ -6,12 +6,8 @@
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-<h3 align="center">Backend Engineering · AI Engineering · Forward Deployed Engineering (FDE)</h3>
-
 <p align="center">
   I build backend systems and machine learning applications. I enjoy turning problems into working APIs, evaluating how they perform, and working with the people who use them.
-  <br><br>
-  <sub>B.Tech CSE (AI &amp; ML) · Lovely Professional University · Class of 2028</sub>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
