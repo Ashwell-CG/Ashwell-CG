@@ -67,7 +67,3 @@
   <br>
   Next up: <strong>AWS</strong>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashwell-cherian-giji-413bb1312/">LinkedIn</a>
-</p>
